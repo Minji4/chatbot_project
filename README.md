@@ -15,7 +15,7 @@
 
 
 ## 3. 웹 구성도
-<img src="images/chatBite_descImg_03.png" style="display:inline-block; width:800px; margin:auto;"/><br/>
+<img src="images/chatBite_descImg_03-3.png" style="display:inline-block; width:800px; margin:auto;"/><br/>
 #### 1) 파인튜닝 과정 : 데이터 크롤링 > 데이터 전처리를 통한 토큰화 및 태그 처리 > Train 데이터셋을 통한 모델 훈련 ><br/>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; Bert 모델 파인튜닝 > Test 데이터셋을 통한 모델 검증
 &#160; &#160; &#160; - 데이터 크롤링 : BeautifulSoup 활용 > Selenium 활용<br/>
 &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; (이유 : 중 동적 웹 페이지에서 데이터를 수집을 위한 자동화된 크롤링 수행)<br/>
